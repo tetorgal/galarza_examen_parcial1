@@ -131,7 +131,7 @@ function IndexNavbar() {
                   target="_blank"
                 >
                   <i className="now-ui-icons arrows-1_share-66 mr-1"></i>
-                  <p>Upgrade to PRO</p>
+                  <p>Upgrade to </p>
                 </Button>
                 <UncontrolledTooltip target="#upgrade-to-pro">
                   Cooming soon!

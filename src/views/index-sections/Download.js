@@ -75,7 +75,7 @@ function Download() {
                 target="_blank"
               >
                 <i className="now-ui-icons arrows-1_share-66 mr-1"></i>
-                Upgrade to PRO
+                Upgrade to 
               </Button>
             </Col>
           </Row>
